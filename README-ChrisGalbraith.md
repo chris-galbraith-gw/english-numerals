@@ -1,5 +1,11 @@
 # Notes on the task
 
+## Installation
+
+- Run `npm i` and then `npm test` in order to run the jest test suite that works through a few examples.
+
+- You can edit the first test input to check whichever number you like from -999 million to 999 million
+
 ## Finding a solution
 
 - First approach to the problem was to spend time-gated 30 minutes browsing other solutions online.

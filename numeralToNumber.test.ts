@@ -2,7 +2,7 @@ import { numeralToNumber } from "./numeralToNumber";
 
 // Objectives 2, 3, 4 and 5
 test("Should return a number", () => {
-  const result = numeralToNumber("Nine Hundred and eiGhty seVen thouSand, six hundred and fifty four");
+  const result = numeralToNumber("Nine Hundred and eiGhty seVen thouSand, six hundred and fifty-four");
   expect(typeof result).toBe("number");
 });
 
